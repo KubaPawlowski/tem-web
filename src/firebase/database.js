@@ -36,7 +36,7 @@ export const start = (key, user) => {
     startTime,
     endTime: '',
   };
-  console.log(key)
+
   const editKey = doFetch().push().getKey();
   const activeData = {
     activeEditKey: editKey,
