@@ -1,0 +1,796 @@
+{
+  "users" : {
+    "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "overallEditingTime" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      },
+      "prefs" : {
+        "mainListSorting" : "recent"
+      },
+      "user-data" : {
+        "birthday" : "5.11.1991",
+        "email" : "andrewman199@gmail.com",
+        "fullname" : "Kuba Pawlowski"
+      },
+      "userTopics" : {
+        "-LJAxEAEiFbTEYA2oGfL" : {
+          "color" : "#539C64",
+          "deadline" : "",
+          "description" : "Oliwia Korpal",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 75,
+                "endTime" : "1538926805000",
+                "startTime" : "1538926791000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1195,
+                "endTime" : "1539120434000",
+                "startTime" : "1539120433000"
+              }
+            },
+            "2018910" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "endTime" : "1539207250000",
+                "startTime" : "1539207245000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 59,
+                "endTime" : "1539370926000",
+                "startTime" : "1539370867000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 22107,
+                "endTime" : "1539466693000",
+                "startTime" : "1539466682000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2882,
+                "endTime" : "1539516188000",
+                "startTime" : "1539516069000"
+              }
+            },
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 29,
+                "editDuration" : 20,
+                "endTime" : "1535052286000",
+                "startTime" : "1535052266000"
+              }
+            },
+            "20180724" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 12,
+                "editDuration" : 12,
+                "endTime" : "1535064443000",
+                "startTime" : "1535064431000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 13,
+                "editDuration" : 13,
+                "endTime" : "1535224879000",
+                "startTime" : "1535224866000"
+              }
+            },
+            "20180726" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3,
+                "editDuration" : 3,
+                "endTime" : "1535234946000",
+                "startTime" : "1535234943000"
+              }
+            },
+            "20180731" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1535739770000",
+                "startTime" : "1535739766000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1537010546000",
+                "startTime" : "1537010541000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 744,
+                "endTime" : "1539529677000",
+                "startTime" : "1539529120000"
+              }
+            }
+          },
+          "name" : "TD32",
+          "shared" : "",
+          "topicKey" : "-LJAxEAEiFbTEYA2oGfL"
+        },
+        "-LKcD9hj7KffsuLi_FZM" : {
+          "color" : "#EAD845",
+          "deadline" : "",
+          "description" : "Ato Sushi",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 31,
+                "endTime" : "1538926813000",
+                "startTime" : "1538926811000"
+              }
+            },
+            "2018908" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 9,
+                "endTime" : "1539029819000",
+                "startTime" : "1539029816000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 8,
+                "endTime" : "1539122281000",
+                "startTime" : "1539122279000"
+              }
+            },
+            "2018911" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "endTime" : "1539292070000",
+                "startTime" : "1539292066000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3295,
+                "endTime" : "1539443272000",
+                "startTime" : "1539443271000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 274,
+                "endTime" : "1539474312000",
+                "startTime" : "1539474306000"
+              }
+            },
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 340,
+                "editDuration" : 18,
+                "endTime" : "1535058633000",
+                "startTime" : "1535058615000",
+                "userDayEditingTime" : 18
+              }
+            },
+            "20180724" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 62,
+                "editDuration" : 62,
+                "endTime" : "1535061999000",
+                "startTime" : "1535061937000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 820,
+                "editDuration" : 817,
+                "endTime" : "1535232571000",
+                "startTime" : "1535231754000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1535488351000",
+                "startTime" : "1535488345000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 10,
+                "editDuration" : 10,
+                "endTime" : "1535571726000",
+                "startTime" : "1535571716000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1535580668000",
+                "startTime" : "1535580664000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1537006950000",
+                "startTime" : "1537006944000"
+              }
+            },
+            "20180816" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1537116953000",
+                "startTime" : "1537116946000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1205,
+                "endTime" : "1539546203000",
+                "startTime" : "1539546194000"
+              }
+            }
+          },
+          "name" : "TD20",
+          "shared" : "",
+          "stats" : {
+            "overallEditingTime" : 21
+          },
+          "topicKey" : "-LKcD9hj7KffsuLi_FZM"
+        },
+        "-LKcEVnpnuEvVT__ASmt" : {
+          "color" : "#F06F3E",
+          "deadline" : "dwdwddwwwdefedwwd",
+          "description" : "Mosqi.to",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "endTime" : "1538926286000",
+                "startTime" : "1538926221000"
+              }
+            },
+            "2018908" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 11,
+                "endTime" : "1539029867000",
+                "startTime" : "1539029856000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1958,
+                "endTime" : "1539120833000",
+                "startTime" : "1539120499000"
+              }
+            },
+            "2018911" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "endTime" : "1539211321000",
+                "startTime" : "1539211316000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 49,
+                "endTime" : "1539373906000",
+                "startTime" : "1539373895000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 10067,
+                "endTime" : "1539467796000",
+                "startTime" : "1539467763000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 34859,
+                "endTime" : "1539516243000",
+                "startTime" : "1539516190000"
+              }
+            },
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1535052265000",
+                "startTime" : "1535052259000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 14,
+                "editDuration" : 8,
+                "endTime" : "1535231195000",
+                "startTime" : "1535231187000"
+              }
+            },
+            "20180727" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1535320937000",
+                "startTime" : "1535320932000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3,
+                "editDuration" : 3,
+                "endTime" : "1535480468000",
+                "startTime" : "1535480465000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1964,
+                "editDuration" : 175,
+                "endTime" : "1535574204000",
+                "startTime" : "1535574029000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 24943,
+                "editDuration" : 24938,
+                "endTime" : "1535605624000",
+                "startTime" : "1535580686000"
+              }
+            },
+            "20180819" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 407,
+                "editDuration" : 397,
+                "endTime" : "1537388627000",
+                "startTime" : "1537388230000"
+              }
+            },
+            "20180829" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1538252547000",
+                "startTime" : "1538252540000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1028,
+                "endTime" : "1539545976000",
+                "startTime" : "1539545043000"
+              }
+            }
+          },
+          "name" : "TD29",
+          "shared" : "",
+          "stats" : {
+            "overallEditingTime" : 933
+          },
+          "topicKey" : "-LKcEVnpnuEvVT__ASmt"
+        },
+        "-LKcE_pQFSX7pBwmD56m" : {
+          "color" : "#62BE58",
+          "deadline" : "dwdwdwdwwdwdww",
+          "description" : "Mieszkaniowka Zlotno",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 9,
+                "endTime" : "1538927010000",
+                "startTime" : "1538927001000"
+              }
+            },
+            "2018908" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 14,
+                "endTime" : "1539029851000",
+                "startTime" : "1539029837000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1472,
+                "endTime" : "1539122270000",
+                "startTime" : "1539122266000"
+              }
+            },
+            "2018910" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 470,
+                "endTime" : "1539122921000",
+                "startTime" : "1539122451000"
+              }
+            },
+            "2018911" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 938,
+                "endTime" : "1539211314000",
+                "startTime" : "1539211313000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1335,
+                "endTime" : "1539378641000",
+                "startTime" : "1539378505000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 770,
+                "endTime" : "1539468344000",
+                "startTime" : "1539467960000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 194,
+                "endTime" : "1539516408000",
+                "startTime" : "1539516289000"
+              }
+            },
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 29,
+                "editDuration" : 18,
+                "endTime" : "1535053103000",
+                "startTime" : "1535053085000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 24,
+                "editDuration" : 22,
+                "endTime" : "1535231666000",
+                "startTime" : "1535231644000"
+              }
+            },
+            "20180726" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1535234942000",
+                "startTime" : "1535234935000"
+              }
+            },
+            "20180727" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1535320948000",
+                "startTime" : "1535320943000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 16,
+                "editDuration" : 12,
+                "endTime" : "1535492478000",
+                "startTime" : "1535492466000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2912,
+                "editDuration" : 2803,
+                "endTime" : "1535577777000",
+                "startTime" : "1535574974000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 16,
+                "editDuration" : 16,
+                "endTime" : "1535656153000",
+                "startTime" : "1535656137000"
+              }
+            },
+            "20180731" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 251,
+                "editDuration" : 251,
+                "endTime" : "1535740165000",
+                "startTime" : "1535739914000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1537007955000",
+                "startTime" : "1537007951000"
+              }
+            },
+            "20180829" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 75,
+                "editDuration" : 31,
+                "endTime" : "1538252477000",
+                "startTime" : "1538252446000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6282,
+                "endTime" : "1539544829000",
+                "startTime" : "1539544781000"
+              }
+            }
+          },
+          "name" : "TD27",
+          "shared" : "",
+          "topicKey" : "-LKcE_pQFSX7pBwmD56m"
+        },
+        "-LNlLDGWKbjEqoyzFto5" : {
+          "color" : "#BE9D7A",
+          "deadline" : "wdwd",
+          "description" : "Test",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 54,
+                "endTime" : "1538927084000",
+                "startTime" : "1538927038000"
+              }
+            },
+            "2018908" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 75090,
+                "endTime" : "1539108280000",
+                "startTime" : "1539033190000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 10,
+                "endTime" : "1539120139000",
+                "startTime" : "1539120138000"
+              }
+            },
+            "2018910" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 83404,
+                "endTime" : "1539206342000",
+                "startTime" : "1539206337000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2813,
+                "endTime" : "1539381304000",
+                "startTime" : "1539381300000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1400,
+                "endTime" : "1539467957000",
+                "startTime" : "1539467807000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "endTime" : "1539506772000",
+                "startTime" : "1539506768000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 200,
+                "endTime" : "1539545041000",
+                "startTime" : "1539544936000"
+              }
+            }
+          },
+          "name" : "Td50",
+          "shared" : "wwd",
+          "topicKey" : "-LNlLDGWKbjEqoyzFto5"
+        },
+        "-LNlQdfvBBN51GAvdiHb" : {
+          "color" : "#C9440F",
+          "deadline" : "",
+          "description" : "Hehe",
+          "edits" : {
+            "2018907" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 43,
+                "endTime" : "1538926943000",
+                "startTime" : "1538926939000"
+              }
+            },
+            "2018908" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2,
+                "endTime" : "1539029786000",
+                "startTime" : "1539029784000"
+              }
+            },
+            "2018909" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "endTime" : "1539116196000",
+                "startTime" : "1539116192000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3374,
+                "endTime" : "1539381179000",
+                "startTime" : "1539381025000"
+              }
+            },
+            "2018913" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 18,
+                "endTime" : "1539435592000",
+                "startTime" : "1539435589000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 211,
+                "endTime" : "1539506790000",
+                "startTime" : "1539506781000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2164,
+                "endTime" : "1539537266000",
+                "startTime" : "1539537052000"
+              }
+            }
+          },
+          "name" : "Jakiś temat",
+          "shared" : "",
+          "topicKey" : "-LNlQdfvBBN51GAvdiHb"
+        },
+        "-LOZZ9VzQbSTDIIA3kWy" : {
+          "color" : "#00716C",
+          "dataCreated" : "",
+          "deadline" : "",
+          "description" : "Temacik",
+          "edits" : {
+            "2018911" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1693,
+                "endTime" : "1539292096000",
+                "startTime" : "1539292072000"
+              }
+            },
+            "2018912" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1846,
+                "endTime" : "1539380857000",
+                "startTime" : "1539380637000"
+              }
+            },
+            "2018914" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3,
+                "endTime" : "1539474444000",
+                "startTime" : "1539474441000"
+              }
+            },
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 172,
+                "endTime" : "1539546211000",
+                "startTime" : "1539546206000"
+              }
+            }
+          },
+          "name" : "TD601",
+          "shared" : "",
+          "stats" : {
+            "overallEditingTime" : 5
+          }
+        },
+        "-LOjoqbEYeEUMBNh9bGR" : {
+          "color" : "#F58B53",
+          "dataCreated" : "",
+          "deadline" : "",
+          "description" : "Gówno",
+          "edits" : {
+            "20181014" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6048,
+                "endTime" : "1539540840000",
+                "startTime" : "1539540836000"
+              }
+            }
+          },
+          "name" : "Td70",
+          "shared" : ""
+        }
+      }
+    },
+    "Ba52NhLbgLaa3oA0HM80hYKiDri1" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      },
+      "user-data" : {
+        "birthday" : "",
+        "email" : "test10@test10.pl",
+        "fullname" : "",
+        "profileImageURL" : ""
+      },
+      "userTopics" : {
+        "-LMdT09DV-IbKOn2Uq-U" : {
+          "deadline" : "",
+          "description" : "przyklad",
+          "edits" : {
+            "20180817" : {
+              "Ba52NhLbgLaa3oA0HM80hYKiDri1" : {
+                "dayEditingTime" : 14,
+                "editDuration" : 14,
+                "endTime" : "1537220313000",
+                "startTime" : "1537220299000"
+              }
+            }
+          },
+          "name" : "Projekt",
+          "shared" : "",
+          "topicKey" : "-LMdT09DV-IbKOn2Uq-U"
+        }
+      }
+    },
+    "Z9yUaL3RiBRpsCaDR0lObONLNNB3" : {
+      "activeTopic" : {
+        "-LKNlcNNnio_doxgfOpJ" : {
+          "activeEditKey" : "",
+          "activeTopicKey" : "",
+          "previousEdit" : "",
+          "startDate" : "",
+          "startTime" : "",
+          "topicName" : ""
+        }
+      }
+    },
+    "pOejoCTyj6YgN51a0dYz9KiwtYm2" : {
+      "activeTopic" : {
+        "-LKNkmNgK1uVv9JkcHxI" : {
+          "activeEditKey" : "",
+          "activeTopicKey" : "",
+          "previousEdit" : "",
+          "startDate" : "",
+          "startTime" : "",
+          "topicName" : ""
+        }
+      }
+    },
+    "zUTtefH2dqTKAc2RlmMVn6dOXJE3" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      }
+    }
+  }
+}

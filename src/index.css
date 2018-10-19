@@ -1,0 +1,92 @@
+@value PrimaryColor: #273336;
+@value PrimaryBrighter: #5F909C;
+@value Darker: #1A293B;
+@value SecondaryColor: #FFFFFF;
+@value ThirdColor: #9DC909;
+@value GreenColor: #82AE13;
+@value Grey: #82A38F;
+@value GreyBrighter: #E2F6FF;
+@value Red: #F3573B;
+
+body, html {
+  background-color: SecondaryColor;
+  margin: 0;
+  height: 100%;
+}
+
+h1, h2, p, ul, li, div {
+  font-family: Roboto Condensed;
+  font-weight: 200;
+}
+
+.nav-link:hover {
+  background-color: PrimaryBrighter;
+}
+
+.nav-link a:hover, a:visited, a:active, a:link, a {
+  color: SecondaryColor;
+  text-decoration: none;
+}
+
+input {
+  background-color: GreyBrighter;
+  border: none;
+  padding: 8px;
+}
+
+input:disabled:hover {
+  background-color: GreyBrighter;
+  padding: 8px;
+}
+
+input:disabled {
+  background-color: SecondaryColor;
+  padding-left: 0px;
+}
+
+.datePicker input, input:disabled {
+  width: 100px;
+  padding-left: 8px;
+}
+
+.datePicker * {
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+    width: 14px;
+    height: 18px;
+}
+::-webkit-scrollbar-thumb {
+    height: 6px;
+    border: 4px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: inset -1px -1px 0px rgba(0, 0, 0, 0.05), inset 1px 1px 0px rgba(0, 0, 0, 0.05);
+}
+::-webkit-scrollbar-button {
+    width: 0;
+    height: 0;
+    display: none;
+}
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+
+.tick {
+		-webkit-animation: rotation 2s infinite linear;
+}
+
+.tick2 {
+		-webkit-animation: rotation 1s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}

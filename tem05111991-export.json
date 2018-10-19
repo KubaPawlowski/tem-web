@@ -1,0 +1,397 @@
+{
+  "users" : {
+    "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      },
+      "user-data" : {
+        "birthday" : "5.11.1991",
+        "email" : "andrewman199@gmail.com",
+        "fullname" : "Kuba Pawlowski"
+      },
+      "userTopics" : {
+        "-LJAxEAEiFbTEYA2oGfL" : {
+          "deadline" : "10",
+          "description" : "Oliwia Korpal",
+          "edits" : {
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 29,
+                "editDuration" : 20,
+                "endTime" : "1535052286000",
+                "startTime" : "1535052266000"
+              }
+            },
+            "20180724" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 12,
+                "editDuration" : 12,
+                "endTime" : "1535064443000",
+                "startTime" : "1535064431000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 13,
+                "editDuration" : 13,
+                "endTime" : "1535224879000",
+                "startTime" : "1535224866000"
+              }
+            },
+            "20180726" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3,
+                "editDuration" : 3,
+                "endTime" : "1535234946000",
+                "startTime" : "1535234943000"
+              }
+            },
+            "20180731" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1535739770000",
+                "startTime" : "1535739766000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1537010546000",
+                "startTime" : "1537010541000"
+              }
+            }
+          },
+          "name" : "TD32",
+          "shared" : "",
+          "topicKey" : "-LJAxEAEiFbTEYA2oGfL"
+        },
+        "-LKcD9hj7KffsuLi_FZM" : {
+          "deadline" : "",
+          "description" : "Ato Sushis",
+          "edits" : {
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 340,
+                "editDuration" : 18,
+                "endTime" : "1535058633000",
+                "startTime" : "1535058615000",
+                "userDayEditingTime" : 18
+              }
+            },
+            "20180724" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 62,
+                "editDuration" : 62,
+                "endTime" : "1535061999000",
+                "startTime" : "1535061937000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 820,
+                "editDuration" : 817,
+                "endTime" : "1535232571000",
+                "startTime" : "1535231754000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1535488351000",
+                "startTime" : "1535488345000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 10,
+                "editDuration" : 10,
+                "endTime" : "1535571726000",
+                "startTime" : "1535571716000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1535580668000",
+                "startTime" : "1535580664000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1537006950000",
+                "startTime" : "1537006944000"
+              }
+            },
+            "20180816" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1537116953000",
+                "startTime" : "1537116946000"
+              }
+            }
+          },
+          "name" : "TD20r",
+          "shared" : "",
+          "topicKey" : "-LKcD9hj7KffsuLi_FZM"
+        },
+        "-LKcEVnpnuEvVT__ASmt" : {
+          "deadline" : "",
+          "description" : "Mosqi.to",
+          "edits" : {
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 6,
+                "editDuration" : 6,
+                "endTime" : "1535052265000",
+                "startTime" : "1535052259000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 14,
+                "editDuration" : 8,
+                "endTime" : "1535231195000",
+                "startTime" : "1535231187000"
+              }
+            },
+            "20180727" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1535320937000",
+                "startTime" : "1535320932000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 3,
+                "editDuration" : 3,
+                "endTime" : "1535480468000",
+                "startTime" : "1535480465000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 1964,
+                "editDuration" : 175,
+                "endTime" : "1535574204000",
+                "startTime" : "1535574029000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 24943,
+                "editDuration" : 24938,
+                "endTime" : "1535605624000",
+                "startTime" : "1535580686000"
+              }
+            },
+            "20180819" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 407,
+                "editDuration" : 397,
+                "endTime" : "1537388627000",
+                "startTime" : "1537388230000"
+              }
+            },
+            "20180829" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1538252547000",
+                "startTime" : "1538252540000"
+              }
+            }
+          },
+          "name" : "TD29",
+          "shared" : "",
+          "topicKey" : "-LKcEVnpnuEvVT__ASmt"
+        },
+        "-LKcE_pQFSX7pBwmD56m" : {
+          "deadline" : "",
+          "description" : "Mieszkaniowka Zlotno",
+          "edits" : {
+            "20180723" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 29,
+                "editDuration" : 18,
+                "endTime" : "1535053103000",
+                "startTime" : "1535053085000"
+              }
+            },
+            "20180725" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 24,
+                "editDuration" : 22,
+                "endTime" : "1535231666000",
+                "startTime" : "1535231644000"
+              }
+            },
+            "20180726" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 7,
+                "editDuration" : 7,
+                "endTime" : "1535234942000",
+                "startTime" : "1535234935000"
+              }
+            },
+            "20180727" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 5,
+                "editDuration" : 5,
+                "endTime" : "1535320948000",
+                "startTime" : "1535320943000"
+              }
+            },
+            "20180728" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 16,
+                "editDuration" : 12,
+                "endTime" : "1535492478000",
+                "startTime" : "1535492466000"
+              }
+            },
+            "20180729" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 2912,
+                "editDuration" : 2803,
+                "endTime" : "1535577777000",
+                "startTime" : "1535574974000"
+              }
+            },
+            "20180730" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 16,
+                "editDuration" : 16,
+                "endTime" : "1535656153000",
+                "startTime" : "1535656137000"
+              }
+            },
+            "20180731" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 251,
+                "editDuration" : 251,
+                "endTime" : "1535740165000",
+                "startTime" : "1535739914000"
+              }
+            },
+            "20180815" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 4,
+                "editDuration" : 4,
+                "endTime" : "1537007955000",
+                "startTime" : "1537007951000"
+              }
+            },
+            "20180829" : {
+              "BB3ooVpxOjVqlbNb9gxnctmqf5b2" : {
+                "dayEditingTime" : 75,
+                "editDuration" : 31,
+                "endTime" : "1538252477000",
+                "startTime" : "1538252446000"
+              }
+            }
+          },
+          "name" : "TD27",
+          "shared" : "",
+          "topicKey" : "-LKcE_pQFSX7pBwmD56m"
+        },
+        "-LNlLDGWKbjEqoyzFto5" : {
+          "deadline" : "",
+          "description" : "Test",
+          "name" : "Td50",
+          "shared" : "",
+          "topicKey" : "-LNlLDGWKbjEqoyzFto5"
+        },
+        "-LNlQdfvBBN51GAvdiHb" : {
+          "deadline" : "",
+          "description" : "Hehe",
+          "name" : "Ghjk",
+          "shared" : "",
+          "topicKey" : "-LNlQdfvBBN51GAvdiHb"
+        }
+      }
+    },
+    "Ba52NhLbgLaa3oA0HM80hYKiDri1" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      },
+      "user-data" : {
+        "birthday" : "",
+        "email" : "test10@test10.pl",
+        "fullname" : "",
+        "profileImageURL" : ""
+      },
+      "userTopics" : {
+        "-LMdT09DV-IbKOn2Uq-U" : {
+          "deadline" : "",
+          "description" : "przyklad",
+          "edits" : {
+            "20180817" : {
+              "Ba52NhLbgLaa3oA0HM80hYKiDri1" : {
+                "dayEditingTime" : 14,
+                "editDuration" : 14,
+                "endTime" : "1537220313000",
+                "startTime" : "1537220299000"
+              }
+            }
+          },
+          "name" : "Projekt",
+          "shared" : "",
+          "topicKey" : "-LMdT09DV-IbKOn2Uq-U"
+        }
+      }
+    },
+    "Z9yUaL3RiBRpsCaDR0lObONLNNB3" : {
+      "activeTopic" : {
+        "-LKNlcNNnio_doxgfOpJ" : {
+          "activeEditKey" : "",
+          "activeTopicKey" : "",
+          "previousEdit" : "",
+          "startDate" : "",
+          "startTime" : "",
+          "topicName" : ""
+        }
+      }
+    },
+    "pOejoCTyj6YgN51a0dYz9KiwtYm2" : {
+      "activeTopic" : {
+        "-LKNkmNgK1uVv9JkcHxI" : {
+          "activeEditKey" : "",
+          "activeTopicKey" : "",
+          "previousEdit" : "",
+          "startDate" : "",
+          "startTime" : "",
+          "topicName" : ""
+        }
+      }
+    },
+    "zUTtefH2dqTKAc2RlmMVn6dOXJE3" : {
+      "activeTopic" : {
+        "activeEditKey" : "",
+        "activeTopicKey" : "",
+        "previousEdit" : "",
+        "startDate" : "",
+        "startTime" : "",
+        "topicName" : ""
+      }
+    }
+  }
+}

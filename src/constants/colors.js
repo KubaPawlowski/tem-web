@@ -1,0 +1,9 @@
+export const PrimaryColor = '#1D2D41';
+export const Darker = '#1A293B';
+export const SecondaryColor = '#FFFFFF';
+export const ThirdColor = '#9DC909';
+export const GreenColor = '#82AE13';
+export const Grey = '#82A38F';
+export const GreyBrighter = '#f0f0f0';
+export const Brighter = '#324E70';
+export const Red = '#ED1822';
