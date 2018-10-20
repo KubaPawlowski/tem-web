@@ -3,10 +3,9 @@ import { firebase, database } from '../../firebase';
 import ListView from './ListView';
 import {
   BigButton,
-  InputField,
-  Label,
   RowContainer,
 } from '.';
+import EditableProp from './EditableProp';
 
 import { TOPIC_DATA } from '../../constants/initialDataStructure';
 
@@ -23,9 +22,9 @@ class EditForm extends Component {
     this.listItem = (item, index) => {
       return (
         <React.Fragment key={item.key + index}>
-          <Label title={item.key} />
-          <InputField
-            onChange={(event) => { this.onChangeText(event.target.value, index); }}
+          <EditableProp
+            onChange={value => this.onChangeText(value, index)}
+            data={item}
             value={item.value}
           />
         </React.Fragment>
@@ -34,7 +33,7 @@ class EditForm extends Component {
   }
 
   onChangeText = (value, index) => {
-    console.log('hej')
+        console.log(value);
     const { dataSource } = this.state;
     const data = [];
     dataSource.forEach((item) => {
@@ -52,6 +51,7 @@ class EditForm extends Component {
 
   onSave() {
     const { dataSource } = this.state;
+    const { onHide } = this.props;
     const data = {};
     dataSource.forEach((item) => {
       data[item.key] = item.value;
@@ -60,6 +60,7 @@ class EditForm extends Component {
     const ref = database.doFetch(`users/${this.currentUser}/userTopics/${key}/`);
 
     ref.update(data);
+    onHide();
   }
 
   resetForm() {
@@ -69,7 +70,7 @@ class EditForm extends Component {
   }
 
   render() {
-    const { onDiscard } = this.props;
+    const { onHide} = this.props;
     const { dataSource } = this.state;
     return (
       <React.Fragment>
@@ -77,7 +78,7 @@ class EditForm extends Component {
         <RowContainer>
           <BigButton fixedWidth={200} title="Save" onPress={() => this.onSave()} />
           <BigButton fixedWidth={200} title="Reset" onPress={() => this.resetForm()} />
-          <BigButton fixedWidth={200} title="Discard" onPress={() => onDiscard()} />
+          <BigButton fixedWidth={200} title="Discard" onPress={() => onHide()} />
         </RowContainer>
 
       </React.Fragment>

@@ -4,7 +4,7 @@ export const TOPIC_DATA = [
   { key: 'deadline', value: '' },
   { key: 'shared', value: '' },
   { key: 'dataCreated', value: '' },
-  { key: 'color', value: '#fff' },
+  { key: 'color', value: '#00716C' },
 ];
 
 export const USER_VIEW_FILTER = [

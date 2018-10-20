@@ -73,7 +73,6 @@ class Daily extends Component {
 
   renderChart() {
     const { dataSource, loading } = this.state;
-    console.log(typeof (dataSource))
     if (loading) {
       return <center><Spinner size={50} /></center>;
     }

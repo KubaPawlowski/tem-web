@@ -25,18 +25,12 @@ class Navigation extends Component {
     if (visible) {
       return (
         <div style={styles.container}>
-          <IconButton
-            onPress={
-              () => {
-                auth.doSignOut().then(() => { console.log('wylogowano'); });
-              }
-            }
-            iconPath={require('../assets/logout_w.svg')}
-            size={16}
-          />
+
+
           <NavLink to={routes.HOME} title="home" icon={require('../assets/home_w.svg')} />
           <NavLink to={routes.ACCOUNT} title="account" icon={require('../assets/profile_w.svg')} />
           <NavLink to={routes.STATISTICS} title="statistics" icon={require('../assets/stats_w.svg')} />
+          <NavLink to={routes.SIGN_OUT} title="log out" icon={require('../assets/logout_w.svg')} />
         </div>
       );
     }

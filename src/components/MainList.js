@@ -7,6 +7,7 @@ import CreateForm from './common/CreateForm';
 import {
   BigButton,
   MainListHeader,
+  NoData,
   RoundedContainer,
   Sort,
 } from './common';
@@ -64,7 +65,6 @@ class MainList extends Component {
   }
 
   fetchPref() {
-
     database.doFetch(`users/${this.currentUser}/prefs`).on(
       'value',
       (snapshot) => {
@@ -153,10 +153,13 @@ class MainList extends Component {
           <Sort onChange={() => this.onSort()} value={sorting} />
         </MainListHeader>
         { createFormVisible
-          ? <CreateForm onDiscard={() => this.setState({ createFormVisible: false })} />
+          ? <CreateForm onHide={() => this.setState({ createFormVisible: false })} />
           : null
         }
-        <ListView dataSource={dataSource} render={this.listItem} />
+        {dataSource.length === 0
+          ? <NoData>Currently you don't have any project, please create one</NoData>
+          : <ListView dataSource={dataSource} render={this.listItem} />
+        }
       </RoundedContainer>
     );
   }

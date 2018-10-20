@@ -57,7 +57,6 @@ class EditableProp extends Component {
   onFocusOut() {
     this.timeoutID = setTimeout(() => {
       this.onSave();
-
     }, 0);
   }
 
@@ -91,9 +90,12 @@ class EditableProp extends Component {
   }
 
   callback = (value) => {
+    const { onChange } = this.props;
     this.setState({
       value,
-    }, () => { this.onSave(); });
+    }, () => {
+      return typeof (onChange) !== 'undefined' ? onChange(value) : this.onSave();
+    });
   }
 
   moveCursor() {
@@ -133,7 +135,6 @@ class EditableProp extends Component {
 
   render() {
     const { key } = this.state;
-    console.log(this.props.value)
     return (
       <React.Fragment>
         <div>

@@ -14,7 +14,6 @@ export const getCurrentDate = (input) => {
   // outputs date in 20180218 format
 
   const fullCurrentTime = input || new Date();
-  console.log(fullCurrentTime)
   const currentYear = fullCurrentTime.getFullYear();
   const currentMonth = (fullCurrentTime.getMonth() + 1) < 10
     ? `0${fullCurrentTime.getMonth() + 1}`
