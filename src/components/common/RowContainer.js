@@ -12,7 +12,6 @@ const styles = {
     flex: 1,
     justifyContent: 'space-between',
     flexDirection: 'row',
-    width: '100%',
   },
 };
 

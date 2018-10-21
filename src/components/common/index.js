@@ -19,3 +19,4 @@ export * from './NoData';
 export * from './Loading';
 export * from './ErrorContainer';
 export * from './UserMessageContainer';
+export * from './SimpleHeader';

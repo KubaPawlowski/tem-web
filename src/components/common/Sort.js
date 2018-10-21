@@ -1,21 +1,12 @@
 import React from 'react';
-
-import * as CS from '../../index.css';
+import { SimpleHeader } from '.';
 
 const Sort = ({ onChange, value }) => (
-  <div style={styles.text} onClick={onChange}>
-    SORTING: <b>{value}</b>
+  <div onClick={onChange} style={{ width: 130 }}>
+    <SimpleHeader>
+      SORTING: <b>{value}</b>
+    </SimpleHeader>
   </div>
 );
-
-const styles = {
-  text: {
-    width: 130,
-    color: CS.Grey,
-    fontSize: 12,
-    textTransform: 'uppercase',
-    lineHeight: '32px',
-  },
-};
 
 export { Sort };

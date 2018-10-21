@@ -1,7 +1,14 @@
 import React, { Component } from 'react';
 import { firebase, database } from '../../firebase';
 import ListView from '../common/ListView';
-import { IconButton, InputField, UserMessageContainer, ErrorContainer } from '../common';
+import {
+  ErrorContainer,
+  IconButton,
+  InputField,
+  RowContainer,
+  SimpleHeader,
+  UserMessageContainer,
+} from '../common';
 
 import { REQUEST_TYPE, REQUEST_STATUS } from '../../constants/requests';
 
@@ -31,8 +38,8 @@ class InviteFriends extends Component {
     if (match !== null && match.uid !== this.currentUser) {
       const isFriend = this.isFriend(match);
       if (isFriend === false) {
-        this.createFriend(match);
-        message = 'Invitation sent';
+        this.createFriendRequest(match);
+        message = 'Invitation sent, please wait for your friend answer';
       } else {
         isFriend === REQUEST_STATUS.waiting
           ? error = 'You have already sent invitation to that user'
@@ -50,7 +57,7 @@ class InviteFriends extends Component {
     });
   }
 
-  createFriend(data) {
+  createFriendRequest(data) {
     // set friend in user base
     database.doFetch(`users/${this.currentUser}/friends/${data.uid}`)
       .set({ status: REQUEST_STATUS.waiting });
@@ -107,8 +114,13 @@ class InviteFriends extends Component {
     const { error, emailToInvite, message } = this.state;
     return (
       <React.Fragment>
-        <InputField onChange={event => this.onChange(event.target.value)} value={emailToInvite} />
-        <IconButton iconPath={require('../../assets/correct_green.png')} size={24} onPress={() => this.onSubmit()} />
+        <SimpleHeader>
+          Connect with friend
+        </SimpleHeader>
+        <RowContainer>
+          <InputField onChange={event => this.onChange(event.target.value)} value={emailToInvite} placeholder="Provide your friend email"/>
+          <IconButton iconPath={require('../../assets/correct_green.png')} size={24} onPress={() => this.onSubmit()} />
+        </RowContainer>
         <ErrorContainer>{error}</ErrorContainer>
         <UserMessageContainer>{message}</UserMessageContainer>
       </React.Fragment>
