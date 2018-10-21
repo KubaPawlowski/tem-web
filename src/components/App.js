@@ -11,6 +11,7 @@ import HomePage from './Home';
 import AccountPage from './Account';
 import StatisticsPage from './Statistics/Statistics';
 import SignOut from './SignOut';
+import TestPage from './TestPage';
 
 import * as routes from '../constants/routes';
 import { firebase } from '../firebase';
@@ -67,6 +68,11 @@ class App extends Component {
             exact
             path={routes.SIGN_OUT}
             component={SignOut}
+          />
+          <Route
+            exact
+            path={routes.TEST}
+            component={TestPage}
           />
         </div>
       </Router>

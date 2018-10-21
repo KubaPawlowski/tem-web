@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import { NavLink, IconButton } from './common';
+import { NavLink } from './common';
 
-import { auth } from '../firebase';
 import * as routes from '../constants/routes';
 import * as CS from '../index.css';
 
@@ -25,12 +24,11 @@ class Navigation extends Component {
     if (visible) {
       return (
         <div style={styles.container}>
-
-
           <NavLink to={routes.HOME} title="home" icon={require('../assets/home_w.svg')} />
           <NavLink to={routes.ACCOUNT} title="account" icon={require('../assets/profile_w.svg')} />
           <NavLink to={routes.STATISTICS} title="statistics" icon={require('../assets/stats_w.svg')} />
           <NavLink to={routes.SIGN_OUT} title="log out" icon={require('../assets/logout_w.svg')} />
+          <NavLink to={routes.TEST} title="test" icon={require('../assets/logout_w.svg')} />
         </div>
       );
     }

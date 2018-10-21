@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import Navigation from '../Navigation';
-import SearchBar from '../SearchBar';
 import { firebase } from '../../firebase';
 import { Content } from './Content';
 import * as CS from '../../index.css';
 import { Loading } from '.';
+import { MainHeader } from '../MainHeader';
 
 class AuthorizedContent extends Component {
   constructor(props) {
@@ -28,7 +28,7 @@ class AuthorizedContent extends Component {
         <React.Fragment>
           <Navigation />
           <div style={{ display: 'flex', flexDirection: 'column', flex: 5 }}>
-            <SearchBar />
+            <MainHeader />
             <Content>
               {children}
             </Content>

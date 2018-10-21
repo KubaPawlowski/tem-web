@@ -4,8 +4,9 @@ import {
   withRouter
 } from 'react-router-dom';
 
-import { auth } from '../firebase';
+import { auth, database } from '../firebase';
 import * as routes from '../constants/routes';
+import { USER_DATA } from '../constants/initialDataStructure';
 
 const SignUpPage = ({ history }) => {
   return (
@@ -43,14 +44,15 @@ class SignUpForm extends Component {
       email,
       passwordOne
     } = this.state;
-    console.log(username);
 
-    const {
-      history
-    } = this.props;
+    const { history } = this.props;
 
     auth.doCreateUserWithEmailAndPassword(email, passwordOne)
-      .then(() => {
+      .then((user) => {
+        const currentUser = user.user.uid;
+        const ref = database.doFetch(`users/${currentUser}/user-data`);
+        ref.update(USER_DATA);
+        ref.update({ fullname: username, email });
         this.setState({ ...INITIAL_STATE }, () => { console.log(this.state.username); });
         history.push(routes.HOME);
       })

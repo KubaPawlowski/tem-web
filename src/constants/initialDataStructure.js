@@ -22,3 +22,13 @@ export const ACTIVE_DATA = {
   startTime: '',
   topicName: '',
 };
+
+export const USER_DATA = {
+  birthday: '',
+  email: '',
+  fullname: '',
+};
+
+export const USER_PREFS = {
+  mainListSorting: 'alphabetical',
+};
